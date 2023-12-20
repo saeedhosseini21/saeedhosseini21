@@ -10,14 +10,15 @@ and cloud-native application development.
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saeedhosseini21)
 
 # Skills:
-- Bash
-- Python
-- Docker – Docker-compose
-- Terraform
+- AWS (IAM - VPC - EC2 - S3 - RDS)
+- Gitlab - Azure DevOps - Jenkins  
+- Prometheus - ELK - New Relic
+- Python - Bash
 - Kubernetes
-- Helm Package Manager
-- Azure DevOps – Jenkins - GitHub Actions
-- Grafana - Prometheus - ELK
-- AWS: IAM, EC2, S3 and RDS
-- MySql – PostgreSql
+- Terraform
+- Ansible
+- GitOps
+- Docker
+- Nginx
+  
 
